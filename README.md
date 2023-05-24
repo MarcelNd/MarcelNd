@@ -8,5 +8,5 @@ IT-Security Engineer
 ## Languages and Skills
 ![ISO_C++_Logo svg](https://github.com/bestofer123/bestofer123/assets/119612285/2256d136-4f3d-4edd-b4c1-fb50b86e5265)
 ![Python-logo-notext svg](https://github.com/bestofer123/bestofer123/assets/119612285/ca164e3c-a0b3-49ed-8e76-1ad7ff180a18)
-![62066bb2d7b91b0004122604](https://github.com/bestofer123/bestofer123/assets/119612285/a820040e-ca6b-4955-a980-9e015d3a9309)
-![Hintergrund von „unreal-engine-white-logo-png-11662377738plyxyz8g4p“ entfernt](https://github.com/bestofer123/bestofer123/assets/119612285/e6f2bd2b-d22b-400e-8f6d-eacd9cf0faf1)
+![ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f](https://github.com/bestofer123/bestofer123/assets/119612285/c68c5639-ea0a-434e-9f49-52a8c7bd7b83)
+![blender_community_badge_white](https://github.com/bestofer123/bestofer123/assets/119612285/8a008b22-4f2d-46e8-bfc9-90dc57ec5610)
