@@ -3,6 +3,8 @@
 - 3D Artist
 - IT-Security Student
 
+Based in Germany
+
 ### Spoken Language
 - German                      Fluent
 - English (UK, US, CA, AUS)   Fluent
