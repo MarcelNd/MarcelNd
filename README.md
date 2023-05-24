@@ -1,18 +1,21 @@
 ## ABOUT ME
-##### Game Developer
+- Game Developer
+- 3D Artist
+- IT-Security Student
 
-##### 3D Artist
-
-##### IT-Security Student
-
+### Spoken Language
+- German                      Fluent
+- English (UK, US, CA, AUS)   Fluent
+- Albanian                    Advanced Intermediate
+- French                      Intermediate                  
 
 ## Current Projects
 
-#### The Ceiling´s coming Down (Alpha Playtest Phase) (Private)
+- #### The Ceiling´s coming Down (Alpha Playtest Phase) (Private)
 
-#### Public C++ CheatSheet (Public)
+- #### Public C++ CheatSheet (Public)
 
-#### Code-Generator (University)
+- #### Code-Generator (University)
 
 ## Programms
 ![ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f](https://github.com/bestofer123/bestofer123/assets/119612285/c68c5639-ea0a-434e-9f49-52a8c7bd7b83)
