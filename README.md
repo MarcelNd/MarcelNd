@@ -13,9 +13,7 @@ Based in Germany
 
 ## Current Projects
 
-- #### The Ceiling´s coming Down (Alpha Playtest Phase) (Private)
-
-- #### Public C++ CheatSheet (Public)
+- #### Thirteen-Eleven Website
 
 - #### Code-Generator (University)
 
