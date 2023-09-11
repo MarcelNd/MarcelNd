@@ -1,5 +1,5 @@
 ## ABOUT ME
-- Game Developer
+- Software/Web Developer
 - 3D Artist
 - IT-Security Student
 
