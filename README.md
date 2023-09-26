@@ -1,11 +1,13 @@
 ## ABOUT ME
 - Software Development Enthusiast
-- IT-Security Student
 - Full Stack Web Developer
+- IT-Security Student working for
+  
+  ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=bosch&textfill=red&fill=white&text=false&animation=spin) in Germany
 
-Based in Germany; 20 yrs
+20 yrs
 
-### Spoken Language
+### Spoken Languages
 - German                      Fluent
 - English (UK, US, CA, AUS)   Fluent
 - Albanian                    Advanced Intermediate
