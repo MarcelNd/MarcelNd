@@ -22,11 +22,16 @@ Based in Germany
 ![blender_community_badge_white](https://github.com/bestofer123/bestofer123/assets/119612285/8a008b22-4f2d-46e8-bfc9-90dc57ec5610)
 ![jb_beam](https://github.com/bestofer123/bestofer123/assets/119612285/214a08fb-0b3e-4e88-bc08-ad6c764f89ad)
 
-## Languages
-![ISO_C++_Logo svg](https://github.com/bestofer123/bestofer123/assets/119612285/2256d136-4f3d-4edd-b4c1-fb50b86e5265)
-![file_type_html_icon_130541-1](https://github.com/bestofer123/bestofer123/assets/119612285/627db096-93dd-4c28-9951-fc952d71f130)
-![Python-logo-notext svg](https://github.com/bestofer123/bestofer123/assets/119612285/ca164e3c-a0b3-49ed-8e76-1ad7ff180a18)
-![CSS3_logo svg](https://github.com/bestofer123/bestofer123/assets/119612285/7f59989d-47c0-4a3e-96ed-c1ad0f37fcb9)
+## Tech-Stack
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSS3)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=HTML5)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CPlusPlus)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Python)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSharp)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=nodeJS)
 
 ## OS
 ![MacOS_logo_(2017) svg](https://github.com/bestofer123/bestofer123/assets/119612285/86460bd1-0e7e-447e-a7c6-bde87bdaf8c1)
