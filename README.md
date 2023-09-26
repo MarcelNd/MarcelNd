@@ -1,6 +1,7 @@
 ## ABOUT ME
-- Software/Web-Development Enthusiast
+- Software Development Enthusiast
 - IT-Security Student
+- Full Stack Web Developer
 
 Based in Germany
 
@@ -17,17 +18,21 @@ Based in Germany
 
 ## Tech-Stack
 
-### Web-Development
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&textfill=lightblue&fill=black)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript&text=false&textfill=FFFF00&fill=black)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=sqlite&textfill=318bd1&text=false&fill=black)
+### Web-Development 
 
+#### FrontEnd
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&textfill=318bd1&text=false&fill=white)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript&text=false&textfill=FFFF00&fill=black)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSS3&fill=white&textfill=blue&text=false)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&textfill=lightblue&fill=black)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=HTML5&fill=white&textfill=darkorange&text=false)
 
 
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Node&fill=4c9529)
-
+#### BackEnd
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js&textfill=green&fill=white&text=false)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=sqlite&textfill=318bd1&text=false&fill=white)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongoDB&fill=white&textfill=green&text=false)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=microsoftazure&fill=white&textfill=blue&text=false)
 
 ### Software Development
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CPlusPlus&text=false&textfill=33a9cf&fill=white)
