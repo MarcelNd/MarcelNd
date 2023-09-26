@@ -1,6 +1,5 @@
 ## ABOUT ME
-- Software/Web Developer
-- 3D Artist
+- Software/Web-Development Enthusiast
 - IT-Security Student
 
 Based in Germany
@@ -17,21 +16,29 @@ Based in Germany
 
 - #### Code-Generator (University)
 
+## Tech-Stack
+
+### Web-Development
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&textfill=lightblue&fill=black)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript&text=false&textfill=FFFF00&fill=black)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=sqlite&textfill=318bd1&text=false&fill=black)
+
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSS3&fill=white&textfill=blue&text=false)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=HTML5&fill=white&textfill=darkorange&text=false)
+
+
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Node&fill=4c9529)
+
+
+### Software Development
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CPlusPlus&text=false&textfill=33a9cf&fill=white)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Python&text=false&textfill=black&fill=white)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSharp&text=false&textfill=a933cf&fill=white)
+
 ## Programms
 ![ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f](https://github.com/bestofer123/bestofer123/assets/119612285/c68c5639-ea0a-434e-9f49-52a8c7bd7b83)
 ![blender_community_badge_white](https://github.com/bestofer123/bestofer123/assets/119612285/8a008b22-4f2d-46e8-bfc9-90dc57ec5610)
 ![jb_beam](https://github.com/bestofer123/bestofer123/assets/119612285/214a08fb-0b3e-4e88-bc08-ad6c764f89ad)
-
-## Tech-Stack
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSS3)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=HTML5)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CPlusPlus)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Python)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSharp)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=nodeJS)
 
 ## OS
 ![MacOS_logo_(2017) svg](https://github.com/bestofer123/bestofer123/assets/119612285/86460bd1-0e7e-447e-a7c6-bde87bdaf8c1)
