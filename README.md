@@ -35,6 +35,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=sqlite&textfill=318bd1&text=false&fill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongoDB&fill=white&textfill=green&text=false)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=microsoftazure&fill=white&textfill=blue&text=false)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mariadb&fill=white&textfill=lightblue&text=false)
 
 ### Software Development
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CPlusPlus&text=false&textfill=33a9cf&fill=white)
@@ -47,6 +48,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=unity&fill=white&textfill=black&text=false)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=blender&fill=white&textfill=darkorange&text=false)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Github&fill=white&textfill=black&text=false)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=docker&fill=white&textfill=blue&text=false)
 
 ### OS
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Windows&fill=white&textfill=318bd1&text=false)
