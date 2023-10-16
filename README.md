@@ -16,6 +16,7 @@
 ## Current Projects
 
 - #### Calender
+- #### "1$ Finance"
 
 
 ## Tech-Stack
