@@ -34,7 +34,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js&textfill=green&fill=white&text=false)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=sqlite&textfill=318bd1&text=false&fill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Vercel&fill=white&textfill=black&text=false)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=PostgreSQL&fill=white&textfill=lightblue&text=false)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=PostgreSQL&fill=white&textfill=318bd1&text=false)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Next.JS&fill=white&textfill=black&text=false)
 
 ### Software Development
