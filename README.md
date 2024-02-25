@@ -13,12 +13,6 @@
 - Albanian                    Advanced Intermediate
 - French                      Intermediate                  
 
-## Current Projects
-
-- #### Calender
-- #### "1$ Finance"
-
-
 ## Tech-Stack
 
 ### Web-Development 
