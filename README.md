@@ -32,7 +32,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=white&textfill=green&text=false)
 
 ### Software Development
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript&text=false&textfill=FFFF00&fill=black)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=TypeScript&text=false&textfill=FFFF00&fill=black)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Python&text=false&textfill=black&fill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSharp&text=false&textfill=a933cf&fill=white)
 
