@@ -20,7 +20,7 @@
 #### FrontEnd
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&textfill=318bd1&text=false&fill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSS3&fill=white&textfill=blue&text=false)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&textfill=lightblue&fill=black)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&textfill=318bd1&fill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=HTML5&fill=white&textfill=darkorange&text=false)
 
 
@@ -32,7 +32,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=white&textfill=green&text=false)
 
 ### Software Development
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=TypeScript&text=false&textfill=FFFF00&fill=black)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=TypeScript&text=false&textfill=318bd1&fill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Python&text=false&textfill=black&fill=white)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSharp&text=false&textfill=a933cf&fill=white)
 
