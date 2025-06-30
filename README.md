@@ -5,7 +5,7 @@
   
   ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=bosch&textfill=red&fill=white&text=false&animation=spin) in Germany
 
-21 yrs
+22 yrs
 
 ### Spoken Languages
 - German                      Fluent
