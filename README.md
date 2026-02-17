@@ -8,7 +8,7 @@
 
 ### Spoken Languages
 - German                      Fluent
-- English (UK, US, CA, AUS)   Fluent
+- English                     Fluent
 - Albanian                    Advanced Intermediate
 - French                      Intermediate                  
 
