@@ -1,11 +1,11 @@
 ## ABOUT ME
 - Software Development Enthusiast
-- Full Stack Web Developer
-- IT-Security Student working for
+- B.Sc. Computer Science
+- Currently pursuing a M. Sc. in Computational Biology
   
   ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=bosch&textfill=red&fill=white&text=false&animation=spin) in Germany
 
-22 yrs
+23 yrs
 
 ### Spoken Languages
 - German                      Fluent
