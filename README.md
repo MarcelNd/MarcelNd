@@ -3,7 +3,6 @@
 - B.Sc. Computer Science
 - Currently pursuing a M. Sc. in Computational Biology
   
-  ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=bosch&textfill=red&fill=white&text=false&animation=spin) in Germany
 
 23 yrs
 
