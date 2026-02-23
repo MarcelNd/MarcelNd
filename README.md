@@ -2,6 +2,7 @@
 - Software Development Enthusiast
 - B.Sc. Computer Science
 - Currently pursuing a M. Sc. in Computational Biology
+- [My Portfolio](https://marcels-portfolio-2026.vercel.app/)
   
 
 23 yrs
